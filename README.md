@@ -1,5 +1,5 @@
 ========================================================================
-             VHDL NETLIST LEVELIZER - USAGE INSTRUCTIONS
+              VHDL NETLIST LEVELIZER - USAGE INSTRUCTIONS
 ========================================================================
 
 DESCRIPTION:
