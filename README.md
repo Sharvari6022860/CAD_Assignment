@@ -1,7 +1,4 @@
-========================================================================
               VHDL NETLIST LEVELIZER - USAGE INSTRUCTIONS
-========================================================================
-
 DESCRIPTION:
   This script computes topological gate-level depths for VHDL netlists.
   It supports both custom external packages (component libraries) and 
